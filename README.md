@@ -46,6 +46,7 @@ A curated collection of awesome developer tools, resources, and utilities.
 
 - **gh** - GitHub CLI
 - **lazygit** - Terminal UI for git
+- **[Glim](https://github.com/NeoPanic/Glim)** (macOS) - Local Git diff review, staging/unstaging and staged-only commits
 - **git-flow** - Git branching model
 - **husky** - Git hooks made easy
 
